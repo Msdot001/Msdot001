@@ -1,3 +1,2 @@
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Msdot001&theme=onedark_duo&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-
-[![Msdot001's GitHub stats](https://github-readme-stats.vercel.app/api?username=Msdot001)](https://github.com/Msdot001/github-readme-stats)
